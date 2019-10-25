@@ -15,3 +15,4 @@ game.global = {
 };
 
 game.state.start('boot');
+//Bruh
